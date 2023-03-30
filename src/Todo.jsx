@@ -76,7 +76,7 @@ const Todo = () => {
     return (
         <div>
             <header>
-                <h1>Todo List</h1>
+                <h1>Todo App</h1>
             </header>
             <main>
                 <div className="inputForm">
